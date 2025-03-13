@@ -2,6 +2,11 @@ package item19;
 
 public class Car {
     private int speed=0;
+
+    // 재정의 가능 메소드 호출시 오류 발생 가능
+//    Car() {
+//        accelrate();
+//    }
     /**
      * @implSpec
      * drive () method accelerates by calling {@link #accelrate ()}
