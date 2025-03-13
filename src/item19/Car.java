@@ -1,5 +1,6 @@
 package item19;
 
+
 public class Car {
     private int speed=0;
 
@@ -25,4 +26,5 @@ public class Car {
     public int getSpeed() {
         return speed;
     }
+
 }
