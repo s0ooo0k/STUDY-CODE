@@ -1,4 +1,4 @@
-package item19_1;
+package item20;
 
 // 인터페이스
 public interface Car {

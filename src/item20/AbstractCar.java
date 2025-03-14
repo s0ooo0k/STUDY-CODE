@@ -1,4 +1,4 @@
-package item19_1;
+package item20;
 
 // Skeletal Implementation
 // Car 인터페이스를 보완하는 추상 클래스

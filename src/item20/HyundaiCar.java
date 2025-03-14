@@ -1,6 +1,4 @@
-package item19_1;
-
-import item19.Electric;
+package item20;
 
 public class HyundaiCar extends AbstractCar {
     // 필요한 기능만 사용
